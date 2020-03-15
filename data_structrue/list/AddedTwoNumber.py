@@ -1,6 +1,6 @@
 from list import ListNode
 
-
+# 先并进，再分开考虑
 class Solution:
 
     @staticmethod
