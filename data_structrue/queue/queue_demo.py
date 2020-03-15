@@ -20,3 +20,4 @@ pq.put([3, 'e'])
 
 while not pq.empty():
     print(pq.get(), end="->")
+
